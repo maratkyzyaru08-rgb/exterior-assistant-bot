@@ -1,0 +1,4 @@
+pyTelegramBotAPI>=4.26,<5
+google-genai>=1.0,<3
+Flask>=3.0,<4
+gunicorn>=22,<24
